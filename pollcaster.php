@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Pollcaster Shortcode Plugin
-Description: Enables shortcode to embed Pollcaster polls. Usage: <code>[pollcaster id="123" width="100%" height="auto"]</code>. This code is available to copy and paste directly from the Pollcaster poll overview screen.
+Description: Embed your Pollcaster.com polls on your WordPress site.
 Version: 1.0
 License: GPL
 Author: Pollcaster
